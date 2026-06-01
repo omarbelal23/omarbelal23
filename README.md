@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20Belal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=.NET%20Developer%20%7C%20Flutter%20Dev%20%7C%20Software%20Engineer&descAlignY=58&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+Scalable+.NET+Backend+Systems;🌱+Learning+Clean+Architecture+%26+EF+Core;📱+From+Flutter+Dev+to+Backend+Engineer;💡+ASP.NET+Core+%7C+JWT+%7C+REST+APIs;⚡+Distinction+Grades+%40+MSA+University" alt="Typing SVG" />
 
 <br/>
 
@@ -105,8 +104,6 @@ var omar = new Developer
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omarbelal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=7c3aed&icon_color=06b6d4&text_color=e6edf3&bg_color=0d1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelal23&theme=tokyonight&hide_border=true&count_private=false&layout=compact&title_color=7c3aed&text_color=e6edf3&bg_color=0d1117" alt="Top Languages" />
 
 <br/><br/>
 
@@ -114,15 +111,8 @@ var omar = new Developer
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omarbelal23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies" />
-
-</div>
 
 ---
 
