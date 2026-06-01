@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working at Amazon Now and building backend applications with .NET.<br>👥 I’m looking to collaborate on .NET, ASP.NET Core, and Flutter projects.<br>🤝 I’m looking for help with software architecture, backend scalability, and real-world development practices.<br>🌱 I’m currently learning advanced .NET development, software engineering principles, and improving my English communication skills.<br>💬 Ask me about C#, .NET, ASP.NET Core, Flutter, mobile app development, and software engineering.<br>⚡ Fun fact: I built several Flutter projects before focusing on .NET development, and I'm constantly challenging myself to improve both my coding and English skills every day.<br>أو لو عايزها أقوى شوية وتناسب GitHub Profile:<br>🔭 Currently working at Amazon Now as a Customer Service Representative while growing as a .NET Developer.<br>🌱 Learning: ASP.NET Core, Entity Framework Core, Clean Architecture, REST APIs, and Software Engineering.<br>📱 Experience: Developed multiple Flutter applications and completed several hands-on software projects.<br>🚀 Current Goal: Become a professional Backend Developer and build production-ready .NET applications.<br>💬 Ask me about: C#, .NET, ASP.NET Core, Flutter, OOP, Data Structures, and Problem Solving.<br>
+🔭 Currently focused on building backend applications using .NET and expanding my expertise in software development.
+
+👥 Open to collaborating on .NET, ASP.NET Core, and Flutter projects.
+
+🤝 Interested in learning more about software architecture, backend scalability, and real-world development practices.
+
+🌱 Currently learning ASP.NET Core, Entity Framework Core, Clean Architecture, REST APIs, and advanced software engineering concepts.
+
+📱 Previously developed multiple Flutter applications and completed several hands-on academic and personal projects.
+
+💬 Ask me about C#, .NET, ASP.NET Core, Flutter, OOP, Data Structures, Problem Solving, and Software Engineering.
+
+🚀 Current Goal: Become a professional Backend Developer and build scalable, production-ready applications.
+
+⚡ Fun Fact: I started my journey with Flutter development, which helped me build a strong foundation in software development before shifting my focus toward backend engineering with .NET.
+
 
 
 ## 🌐 Socials:
