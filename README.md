@@ -23,7 +23,7 @@
 var omar = new Developer
 {
     Name        = "Omar Belal",
-    University  = "6 October technologycal University – IT Department",
+    University  = "6 October Technological University – IT Department",
     Grade       = "Distinction (3 Years Straight) 🏆",
     Location    = "Cairo, Egypt 🇪🇬",
     Focus       = new[] { "ASP.NET Core", "Clean Architecture", "EF Core", "JWT" },
@@ -41,7 +41,7 @@ var omar = new Developer
 - 🔭 Building **production-ready backend applications** with **.NET**
 - 🌱 Deep-diving into **Clean Architecture**, **EF Core**, **REST APIs** & **JWT Auth**
 - 📱 Previously built: **Fruit Store App** & **Hotel & Flight Booking App** with Flutter
-- 🎓 **Distinction** all 3 years @6 October technologycal University — Faculty of Industrial Technology & Energy
+- 🎓 **Distinction** all 3 years @ 6 October Technological University — Faculty of Industrial Technology & Energy
 - 👥 Open to collaborate on **.NET**, **ASP.NET Core**, and **Flutter** projects
 - 💬 Ask me about: `C#` · `.NET` · `ASP.NET Core` · `Flutter` · `OOP` · `DSA`
 - ⚡ Fun fact: My Flutter journey gave me the strongest dev foundation before I went full backend
@@ -105,12 +105,12 @@ var omar = new Developer
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omarbelal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=7c3aed&icon_color=06b6d4&text_color=e6edf3&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelal23&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=7c3aed&text_color=e6edf3&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omarbelal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=7c3aed&icon_color=06b6d4&text_color=e6edf3&bg_color=0d1117" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelal23&theme=tokyonight&hide_border=true&count_private=false&layout=compact&title_color=7c3aed&text_color=e6edf3&bg_color=0d1117" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=omarbelal23&theme=tokyonight&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&background=0d1117&dates=8b949e" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=omarbelal23&theme=tokyonight&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&background=0d1117&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
@@ -120,7 +120,7 @@ var omar = new Developer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omarbelal23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=omarbelal23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies" />
 
 </div>
 
@@ -142,7 +142,7 @@ var omar = new Developer
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 <br/><br/>
 
