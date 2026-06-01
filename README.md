@@ -41,7 +41,7 @@ var omar = new Developer
 - 🔭 Building **production-ready backend applications** with **.NET**
 - 🌱 Deep-diving into **Clean Architecture**, **EF Core**, **REST APIs** & **JWT Auth**
 - 📱 Previously built: **Fruit Store App** & **Hotel & Flight Booking App** with Flutter
-- 🎓 **Distinction** all 3 years @ MSA University — Faculty of Industrial Technology & Energy
+- 🎓 **Distinction** all 3 years @6 October technologycal University — Faculty of Industrial Technology & Energy
 - 👥 Open to collaborate on **.NET**, **ASP.NET Core**, and **Flutter** projects
 - 💬 Ask me about: `C#` · `.NET` · `ASP.NET Core` · `Flutter` · `OOP` · `DSA`
 - ⚡ Fun fact: My Flutter journey gave me the strongest dev foundation before I went full backend
