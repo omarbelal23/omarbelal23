@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Belal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer%20%7C%20Flutter%20Dev%20%7C%20Software%20Engineer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20Belal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=.NET%20Developer%20%7C%20Flutter%20Dev%20%7C%20Software%20Engineer&descAlignY=58&descSize=17" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+Scalable+.NET+Backend+Systems;🌱+Learning+Clean+Architecture+%26+EF+Core;📱+From+Flutter+Dev+to+Backend+Engineer;💡+ASP.NET+Core+%7C+JWT+%7C+REST+APIs;⚡+Distinction+Grades+%40+MSA+University" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 var omar = new Developer
 {
     Name        = "Omar Belal",
-    University  = "MSA University – IT Department",
+    University  = "6 October technologycal University – IT Department",
     Grade       = "Distinction (3 Years Straight) 🏆",
     Location    = "Cairo, Egypt 🇪🇬",
     Focus       = new[] { "ASP.NET Core", "Clean Architecture", "EF Core", "JWT" },
@@ -116,11 +116,11 @@ var omar = new Developer
 
 ---
 
-### 🏆 Top Contributed Repos
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=omarbelal23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=omarbelal23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -133,7 +133,7 @@ var omar = new Developer
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarbelal23/omarbelal23/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omarbelal23/omarbelal23/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/omarbelal23/omarbelal23/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/omarbelal23/omarbelal23/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -142,7 +142,7 @@ var omar = new Developer
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.&author=Cory+House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/><br/>
 
